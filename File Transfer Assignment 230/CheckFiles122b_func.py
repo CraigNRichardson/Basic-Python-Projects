@@ -10,7 +10,7 @@ import time
 import glob
 import sqlite3
 
-import CheckFiles122
+import CheckFiles122b
 import CheckFiles122_gui
 
 def ask_quit(self):
